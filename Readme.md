@@ -19,7 +19,7 @@ This repository contains a stock prediction program that utilizes LSTM (Long Sho
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/satyajit-2003/stock-prediction-program.git
+git clone https://github.com/NanditaRanjan/stock-prediction.git
 ```
 
 2. Install the required dependencies:
@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 
 ## Connect with Me
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/satyajit-satapathy-45598b201/) to discuss this project and more! I would love to hear your feedback and suggestions.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/nandita-ranjan/) to discuss this project and more! I would love to hear your feedback and suggestions.
